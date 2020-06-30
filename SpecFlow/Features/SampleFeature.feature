@@ -29,6 +29,6 @@ Scenario Outline: Create a new employee with mandatory details(Outline)
 	#Then I should see all the details saved in my application and DB
 Examples: 	
 	| Name | Age | Phone      |
-	| Anuj | 28  | 9102128912 |
+	| Anuj | 28  | 9102128911 |
 	| Sam  | 30  | 9102128913 |
 	| John | 29  | 9102128914 |
